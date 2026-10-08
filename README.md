@@ -3,9 +3,9 @@
 Proyecto colaborativo de laboratorio de Git + GitHub + Visual Studio Code + Unity.
 
 ## Integrantes
-- Andres
-- Eduardo
-- Edson
+- David Andres Escalera Rocha
+- Eduardo Antezana Jau 
+- Edson Marcelo Cayo Ali
 
 ## Ramas
 - main
