@@ -3,9 +3,9 @@
 Proyecto colaborativo de laboratorio de Git + GitHub + Visual Studio Code + Unity.
 
 ## Integrantes
-- David Andres Escalera Rocha
-- Eduardo Antezana Jau 
-- Edson Marcelo Cayo Ali
+- David Andres Escalera Rocha - Movimiento e interacción del jugador
+- Eduardo Antezana Jau - Puzzle, cofre y llave
+- Edson Marcelo Cayo Ali - Puerta, escena e integración
 
 ## Ramas
 - main
