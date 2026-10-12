@@ -26,3 +26,7 @@ Explorar una habitación, resolver un código, abrir un cofre, obtener una llave
 - Se desarrolla en ramas Feature_*.
 - Las Features se integran primero en Dev.
 - Dev pasa a main solo mediante Pull Request.
+
+## Controles
+- WASD / flechas: mover al jugador.
+- E: interactuar con objetos cercanos.
