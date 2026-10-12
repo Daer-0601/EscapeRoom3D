@@ -3,9 +3,9 @@
 Proyecto colaborativo de laboratorio de Git + GitHub + Visual Studio Code + Unity.
 
 ## Integrantes
-- David Andres Escalera Rocha
-- Eduardo Antezana Jau 
-- Edson Marcelo Cayo Ali
+- David Andres Escalera Rocha - Movimiento e interacción del jugador
+- Eduardo Antezana Jau - Puzzle, cofre y llave
+- Edson Marcelo Cayo Ali - Puerta, escena e integración
 
 ## Ramas
 - main
@@ -17,6 +17,11 @@ Proyecto colaborativo de laboratorio de Git + GitHub + Visual Studio Code + Unit
 
 ## Objetivo
 Explorar una habitación, resolver un código, abrir un cofre, obtener una llave y abrir la puerta de salida.
+
+## Información del proyecto
+- Motor: Unity 6 (6000.5.6f1) con Universal Render Pipeline.
+- Escena principal: Assets/00_Scenes/MainScene.unity.
+- Repositorio: https://github.com/Daer-0601/EscapeRoom3D
 ## Flujo de trabajo
 - Se desarrolla en ramas Feature_*.
 - Las Features se integran primero en Dev.
