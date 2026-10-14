@@ -383,8 +383,6 @@ MonoBehaviour:
   m_ShadowLayerMask: 1
   m_RenderingLayers: 1
   m_ShadowRenderingLayers: 1
-<<<<<<< HEAD
-=======
 --- !u!1 &658612030
 GameObject:
   m_ObjectHideFlags: 0
@@ -497,7 +495,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
->>>>>>> Feature_Interaction
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -866,9 +863,6 @@ SceneRoots:
   - {fileID: 410087041}
   - {fileID: 832575519}
   - {fileID: 1203994302}
-<<<<<<< HEAD
   - {fileID: 2002104075}
   - {fileID: 1831890383}
-=======
   - {fileID: 658612034}
->>>>>>> Feature_Interaction
