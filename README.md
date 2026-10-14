@@ -30,3 +30,11 @@ Explorar una habitación, resolver un código, abrir un cofre, obtener una llave
 ## Controles
 - WASD / flechas: mover al jugador.
 - E: interactuar con objetos cercanos.
+
+
+## Caso 14 - Pista del rompecabezas
+
+Este caso introduce un nuevo marcador de pistas para la sala de escape (Escape Room).
+
+La función del rompecabezas mostrará una pista en la consola de Unity
+para verificar que se haya integrado correctamente.
