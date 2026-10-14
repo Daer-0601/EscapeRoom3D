@@ -26,6 +26,11 @@ public class GameManagerDemo : MonoBehaviour
             return;
         }
 
-        if (door != null) door.SetActive(true);
+        if (door != null)
+        {
+            door.SetActive(false);
+
+            Debug.LogError("CASE 17 BUG: The exit door was disabled during initialization.", this);
+        }
     }
 }
