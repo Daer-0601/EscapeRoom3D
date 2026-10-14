@@ -30,3 +30,4 @@ Explorar una habitación, resolver un código, abrir un cofre, obtener una llave
 ## Controles
 - WASD / flechas: mover al jugador.
 - E: interactuar con objetos cercanos.
+- Casos 07 a 12 del laboratorio completados.

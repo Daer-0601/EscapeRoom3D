@@ -4,6 +4,10 @@ public class PlayerController : MonoBehaviour
 {
     public float speed = 5f;
 
+private void Start()
+{
+    Debug.Log("Player ready");
+}
     private void Update()
     {
         Move();
