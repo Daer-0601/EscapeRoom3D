@@ -8,7 +8,7 @@ public class GameManagerDemo : MonoBehaviour
 
     private void Start()
     {
-        // CASE16_INITIALIZATION_SLOT
+        Initialize(); // Initialization from branch B
     }
 
     private void Initialize()
