@@ -22,6 +22,6 @@ public class PuzzleValidator : MonoBehaviour
 
     public bool ValidateCode(string input)
     {
-        return input == "0000";
+        return input == correctCode;
     }
 }
